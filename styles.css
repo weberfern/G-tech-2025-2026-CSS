@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+.logo h1, footer {
+    background-color: #800080;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+
+.banner {
+    background-color: #9932cc;
+    height: 30vh;
+    width: 100%;
+}
+
+.sobre {
+    text-align: center;
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.sobre h2, .titulo-equipe {
+    color: blueviolet;
+}
+
+.sobre p {
+    margin-top: 80px;
+    text-align: justify;
+}
+
+.titulo-equipe {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cards-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 50px;
+}
+
+.cards-container p {
+    text-align: center;
+}
+
+.circulo {
+    width: 100px;
+    height: 100px;
+    background-color: blueviolet;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.time, .cargo {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.linha {
+    width: 100px;
+    height: 2px;
+    background-color: blueviolet;
+    margin: 10px auto;
+}
