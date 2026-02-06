@@ -58,9 +58,18 @@ body {
     margin: 0 auto;
 }
 
-.time, .cargo {
+.time {
     color: blueviolet;
     font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+}
+
+.cargo {
+    color: blueviolet;
+    font-weight: bold;
+    font-size: 0.9rem;
+    margin-top: 0;
 }
 
 .linha {

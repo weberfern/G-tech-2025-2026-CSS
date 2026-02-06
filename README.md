@@ -45,6 +45,7 @@ Praticar e aplicar conceitos de CSS, incluindo:
 
 ## 👨‍💻 Autor
 
+Weber Fernandes da Silva
 Desenvolvido como parte do bootcamp **Geração Tech 3.0**
 
 ---
