@@ -6,15 +6,12 @@ Este repositório contém as atividades práticas de CSS desenvolvidas durante o
 
 ```
 CSS/
-├── Atividade 01/          # Primeira atividade - Digital College
-│   ├── index.html         # Página HTML
-│   ├── styles.css         # Estilos CSS
-│   ├── img/               # Imagens
-│   │   └── css.jpg
-│   └── README.md          # Documentação da atividade
-│
-└── Atividade 02/          # Segunda atividade
-    └── (em desenvolvimento)
+└── Atividade 01/          # Atividade - Digital College
+    ├── index.html         # Página HTML
+    ├── styles.css         # Estilos CSS
+    ├── img/               # Imagens
+    │   └── css.jpg
+    └── README.md          # Documentação da atividade
 ```
 
 ## 🎯 Objetivos
@@ -39,9 +36,6 @@ Desenvolvimento de uma página institucional com:
 
 **[Ver detalhes →](Atividade%2001/README.md)**
 
-### Atividade 02
-Em desenvolvimento...
-
 ## 🎨 Tecnologias Utilizadas
 
 - HTML5
@@ -59,7 +53,7 @@ Em desenvolvimento...
 git clone https://github.com/weberfern/G-tech-2025-2026-CSS.git
 ```
 
-2. Navegue até a atividade desejada:
+2. Navegue até a atividade:
 ```bash
 cd "CSS/Atividade 01"
 ```
