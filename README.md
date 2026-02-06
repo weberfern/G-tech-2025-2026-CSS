@@ -1,52 +1,70 @@
-# Atividade CSS - Geração Tech 3.0
+# Atividades CSS - Geração Tech 3.0
 
-![CSS](img/css.jpg)
+Este repositório contém as atividades práticas de CSS desenvolvidas durante o bootcamp **Geração Tech 3.0**.
 
-## 📋 Descrição
+## 📁 Estrutura do Repositório
 
-Este projeto é uma atividade prática do bootcamp **Geração Tech 3.0**, focada no desenvolvimento de uma página web utilizando HTML e CSS. O projeto demonstra conceitos fundamentais de estilização e estruturação de páginas web.
+```
+CSS/
+├── Atividade 01/          # Primeira atividade - Digital College
+│   ├── index.html         # Página HTML
+│   ├── styles.css         # Estilos CSS
+│   ├── img/               # Imagens
+│   │   └── css.jpg
+│   └── README.md          # Documentação da atividade
+│
+└── Atividade 02/          # Segunda atividade
+    └── (em desenvolvimento)
+```
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
-Praticar e aplicar conceitos de CSS, incluindo:
-- Estilização de elementos
-- Flexbox para layout responsivo
+Praticar e aplicar conceitos fundamentais de CSS, incluindo:
+- Estilização de elementos HTML
+- Layout com Flexbox
 - Cores e tipografia
-- Espaçamentos e margens
-- Criação de componentes visuais (círculos, linhas, cards)
+- Espaçamentos, margens e padding
+- Criação de componentes visuais
+- Organização de código CSS
 
-## 🚀 Estrutura do Projeto
+## 📚 Atividades
 
-```
-├── index.html      # Estrutura HTML da página
-├── styles.css      # Estilos CSS
-├── img/            # Pasta de imagens
-│   └── css.jpg
-└── README.md       # Documentação do projeto
-```
+### Atividade 01 - Digital College
+Desenvolvimento de uma página institucional com:
+- Header com logo e banner
+- Seção sobre a empresa
+- Cards da equipe
+- Footer responsivo
+- Paleta de cores em tons roxos/violeta
 
-## 💻 Características
+**[Ver detalhes →](Atividade%2001/README.md)**
 
-- **Header**: Logo e banner com degradê roxo
-- **Seção Sobre**: Apresentação da Digital College com texto justificado
-- **Seção Equipe**: Cards com membros do time (Team 1, 2 e 3)
-- **Footer**: Rodapé com direitos reservados
-- **Design**: Paleta de cores em tons de roxo/violeta
+### Atividade 02
+Em desenvolvimento...
 
 ## 🎨 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
 
-## 📂 Como Visualizar
-
-1. Clone este repositório
-2. Abra o arquivo `index.html` em seu navegador
-
 ## 👨‍💻 Autor
 
 - Weber Fernandes da Silva
-- Desenvolvido como parte do bootcamp **Geração Tech 3.0**
+- Bootcamp: **Geração Tech 3.0**
+
+## 📂 Como Utilizar
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/weberfern/G-tech-2025-2026-CSS.git
+```
+
+2. Navegue até a atividade desejada:
+```bash
+cd "CSS/Atividade 01"
+```
+
+3. Abra o arquivo `index.html` em seu navegador
 
 ---
 
